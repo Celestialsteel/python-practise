@@ -18,4 +18,5 @@
    I did this before the loop one...hence the name. Uses recursion to compute the operation, by each time multiplying by the preceding number, until it reaches 1.   
 
 # 6. Num_sum.py 
-   Added a How to  aapproach  the problem in the comments explaining my approach, which essentially came down to somehow isolating the numbers(hence the commmented code) which required string conversion and digit conversion for summation.
+   Added a How to  approach  the problem in the comments explaining my approach, which essentially came down to somehow isolating the numbers(hence the commmented code) which required string conversion and digit conversion for summation. Similar to string_reverse.
+   
